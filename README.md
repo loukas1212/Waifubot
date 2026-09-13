@@ -22,7 +22,7 @@ SFW :
 * -waifu_waifu
 * -waifu_marino
 * -waifu_mori_calliope
-* -waifu_raiden-shogun
+* -waifu_raiden_shogun
 * -waifu_selfies
 * -waifu_uniform
 * -waifu_genshin
