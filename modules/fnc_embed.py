@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 
 import discord
-from discord.ext import commands
-from discord.ui import Button, View
 
 
 
@@ -22,11 +20,15 @@ def color2hex(color):
         color = 0xFFE600
     elif color == "vert":
         color = 0x40FF00
+    elif color == "gris":
+        color = 0x808080
     elif color == "noir":
         color = 0x000000
     elif color == "blanc":
         color = 0xFFFFFF
-    
+    else:
+        color = 0x2F3136
+
     return color
 
 def simple_embed(title, description, color):
