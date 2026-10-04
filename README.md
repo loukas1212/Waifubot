@@ -1,6 +1,6 @@
 # Waifubot
 
-Fork de Loukas Community Bot (dev version) prévu pour avoir des commandes de waifu
+un bot prévu pour avoir des commandes de waifu
 
 ---
 
